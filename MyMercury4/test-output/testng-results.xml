@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T15:01:04 IST" name="Suite" finished-at="2024-07-18T15:01:16 IST" duration-ms="12013">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T15:01:04 IST" name="Test" finished-at="2024-07-18T15:01:16 IST" duration-ms="12013">
+      <class name="com.test.MercuryProg2">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:02 IST" name="openbrowser" finished-at="2024-07-18T15:01:04 IST" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:04 IST" name="enterURL" finished-at="2024-07-18T15:01:08 IST" duration-ms="3531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method is-config="true" signature="maximizebrowser()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:08 IST" name="maximizebrowser" finished-at="2024-07-18T15:01:08 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizebrowser -->
+        <test-method is-config="true" signature="getCookies()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:08 IST" name="getCookies" finished-at="2024-07-18T15:01:08 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method signature="login()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:08 IST" name="login" finished-at="2024-07-18T15:01:10 IST" duration-ms="2302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="captureScreenshot()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:10 IST" name="captureScreenshot" finished-at="2024-07-18T15:01:11 IST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method is-config="true" signature="getCookies()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:11 IST" name="getCookies" finished-at="2024-07-18T15:01:11 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method signature="register()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:11 IST" name="register" finished-at="2024-07-18T15:01:16 IST" duration-ms="5173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="captureScreenshot()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:16 IST" name="captureScreenshot" finished-at="2024-07-18T15:01:16 IST" duration-ms="332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:16 IST" name="deleteCookies" finished-at="2024-07-18T15:01:16 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="dbclose()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:16 IST" name="dbclose" finished-at="2024-07-18T15:01:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbclose -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.test.MercuryProg2@28f3b248]" started-at="2024-07-18T15:01:16 IST" name="closebrowser" finished-at="2024-07-18T15:01:17 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.test.MercuryProg2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
