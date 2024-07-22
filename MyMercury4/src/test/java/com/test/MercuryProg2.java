@@ -60,7 +60,7 @@ public class MercuryProg2
 		driver.findElement(By.name("password")).sendKeys("Test@123");
 		driver.findElement(By.name("submit")).click();
 		//driver.findElement(By.linkText("SIGN-OFF")).click();
-		System.out.println("New branch 3");
+		System.out.println("New branch 4");
 	}
 	
 	@Test
